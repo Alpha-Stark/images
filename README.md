@@ -1,1 +1,1 @@
-https://alpha-stark.github.io/images/[imageName with extension]
+https://alpha-stark.github.io/images/[imagenameWithExtension]
